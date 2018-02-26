@@ -160,7 +160,6 @@ class FlashCardViewController: UIViewController {
         let choosenAnswer = bottomView.oneButton.titleLabel?.text
         isCorrect(answer: choosenAnswer)
         
-        
     }
     
     @objc func buttonTwo(){
