@@ -10,6 +10,7 @@ target 'FlashCardUnit6HomeWork' do
    pod 'Firebase/Auth'
    pod 'Firebase/Database'
    pod 'Firebase/Storage'
+   pod ‘FirebaseUI’
    pod 'SnapKit'
    pod 'Kingfisher'
    pod 'Toucan'
